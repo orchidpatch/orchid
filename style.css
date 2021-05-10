@@ -4,7 +4,7 @@ body {
   max-width:650px;
   line-height:1.6;
   font-size:18px;
-  font-family:fantasy;
+  font-family:serif;
   background: #400080;
   color:#00FF00;
   padding:0 10px;
@@ -13,7 +13,7 @@ a {
   color:#00FF00;
 }
 pre {
-  font-family:fantasy;
+  font-family:serif;
 }
 h1,h2,h3 {
   line-height:1.2;
